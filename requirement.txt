@@ -1,0 +1,10 @@
+project
+-Templates
+      -basic.html
+      -index.html
+      -add_student.html
+static
+       -style.css
+
+-app.py
+-students.db
